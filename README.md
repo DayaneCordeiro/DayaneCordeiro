@@ -10,13 +10,16 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Dayane-php" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"/>
-  <img align="center" alt="Dayane-html" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"/>
-  <img align="center" alt="Dayane-css" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"/>
-  <img align="center" alt="Dayane-js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
-  <img align="center" alt="Dayane-jquery" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg"/>
-  <img align="center" alt="Dayane-mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"/>
-  <img align="center" alt="Dayane-bt" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg"/>
-</div>
+  <img align="center" alt="Dayane-php"    height="80" width="50" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"/>&nbsp;
+  <img align="center" alt="Dayane-html"   height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>&nbsp;
+  <img align="center" alt="Dayane-css"    height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>&nbsp;
+  <img align="center" alt="Dayane-js"     height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>&nbsp;
+  <img align="center" alt="Dayane-jquery" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg"/>&nbsp;
+  <img align="center" alt="Dayane-mysql"  height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"/>&nbsp;
+  <img align="center" alt="Dayane-bt"     height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"/>
+</div><br>
   
-🚧 Profile in construction
+<div>
+  <a href = "mailto:contatodayane.cordeirogs@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/dayane-cordeiro-1b761318b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
