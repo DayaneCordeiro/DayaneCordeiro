@@ -10,12 +10,12 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Dayane-php"    height="80" width="50" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"/>&nbsp;
-  <img align="center" alt="Dayane-html"   height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>&nbsp;
-  <img align="center" alt="Dayane-css"    height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>&nbsp;
-  <img align="center" alt="Dayane-js"     height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>&nbsp;
-  <img align="center" alt="Dayane-jquery" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg"/>&nbsp;
-  <img align="center" alt="Dayane-mysql"  height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"/>&nbsp;
+  <img align="center" alt="Dayane-php"    height="80" width="50" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"/>&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Dayane-html"   height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Dayane-css"    height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Dayane-js"     height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Dayane-jquery" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg"/>&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Dayane-mysql"  height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"/>&nbsp;&nbsp;&nbsp;
   <img align="center" alt="Dayane-bt"     height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"/>
 </div><br>
   
