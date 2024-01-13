@@ -1,6 +1,6 @@
 <h1>Hello world, I'm Dayane Cordeiro 👋</h1>
 
-- 🔭 I’m currently working on IoT backend development with Java.
+- 🔭 I’m currently working on backend development with Java.
 - 👩‍💻 I'm currently getting a bachelor's degree in Computer Engineering.
 
 <div>
