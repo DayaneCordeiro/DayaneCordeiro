@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👩🏻‍💻 My name is Dayane and I'm a backend, from Minas Gerais.<br>📖 I'm currently getting a bachelor's degree in Computer Engeneering on PUC Minas.</p>
+<p align="left">👩🏻‍💻 My name is Dayane and I'm a backend developer, from Minas Gerais.<br>📖 I'm currently getting a bachelor's degree in Computer Engeneering on PUC Minas.</p>
 
 ###
 
