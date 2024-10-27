@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Spring Boot<br>🎯 Goals: Dominate the world<br>🎲 Fun fact: PHP > Java</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Clojure<br>🎯 Goals: Dominate the world<br>🎲 Fun fact: PHP > Java</p>
 
 ###
 
